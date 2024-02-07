@@ -8,8 +8,9 @@
 
 body {
     background-image: linear-gradient(to right, #FFC959, #F2A753);
-    background-size: cover;
     background-repeat: no-repeat;
+    background-size: 100% 100vh;
+    height: 100vh;
 }
 
 main {
